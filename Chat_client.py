@@ -1,4 +1,4 @@
-import socket, os, sys, subprocess, platform, getpass
+import socket, os, sys
 
 RHOST = "127.0.0.1"
 RPORT = 4444
